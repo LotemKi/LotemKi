@@ -7,7 +7,11 @@ Currently focused on scalable backend services, concurrency-safe design, and pro
 
 # 🚀 Main Deployed Projects 🚀
 * [bank_project](https://github.com/LotemKi/bank_project) – A full-stack TypeScript/JavaScript banking application with account management, transactions, user authentication, and real-time features via Socket.IO and an AI bot agent. Frontend deployed on Vercel, backend on Render, using React, MUI, Node.js, MongoDB, Axios, and WebSocket. [Live Demo](https://lokbank.vercel.app)
-![Bank Demo](./demo_bank.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LotemKi/LotemKi/main/bank_demo_aiagent.gif" width="450"/>
+  <img src="https://raw.githubusercontent.com/LotemKi/LotemKi/main/bank_demo_transactions.gif" width="450"/>
+</p>
+
 * [ThreadPool](https://github.com/LotemKi/threadpool) – A C++20 priority-based, dynamically resizable thread pool with explicit pause/resume barriers and controlled shutdown behavior. Implements priority task scheduling, runtime thread scaling, and deterministic single-thread execution for systems-level concurrency.
 * [Watchdog](https://github.com/LotemKi/watchdog) – A C/C++ inter-process watchdog system that ensures high availability by automatically restarting monitored processes on failure. Features bidirectional monitoring, heartbeat-based liveness detection, graceful shutdown, and deterministic synchronization for fault-tolerant process supervision.
 
